@@ -14,7 +14,7 @@ This repository contains a comprehensive Digital Literacy Portfolio designed for
 4. **Full Report:** For a detailed breakdown of all tasks and reflections, refer to the report/ directory.
 # Tools Used
 - **Design:** Canva
-- **Web Hosting:** Google Sites / Carrd
+- **Web Hosting:** Google Sites
 - **Data Collection:** Google Forms
 - **Version Control:** GitHub
 
