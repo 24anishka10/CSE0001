@@ -3,9 +3,9 @@ This repository contains a comprehensive Digital Literacy Portfolio designed for
 # Repository Structure
 - **task-1-presentation/:** Contains the Digital Literacy Awareness Infographic.
 - **task-2-portfolio/:** Includes a screenshot and live link to my Personal Portfolio Website.
-- **task-3-quiz/:** Contains the link to the Digital Literacy Quiz and a summary of responses.
-- **task-4-emails/:** Includes two Professional Email Drafts for job applications and collaboration.
-- **task-5-report/:** Contains the Cybercrime Case Study on phishing.
+- **task-3-platforms/:** Contains the link to the Digital Literacy Quiz and a summary of responses.
+- **task-4-email-etiquette/:** Includes two Professional Email Drafts for job applications and collaboration.
+- **task-5-cybercrime/:** Contains the Cybercrime Case Study on phishing.
 - **report/:** The final comprehensive Project Report.
 # How to View This Project
 1. **Infographic:** Open the task-1-presentation/ folder to view the visual guide.
